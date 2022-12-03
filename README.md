@@ -1,1 +1,1 @@
-ahoj 
+Toto je skusobny text ktory nedava zmysel.
