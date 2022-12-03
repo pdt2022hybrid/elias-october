@@ -1,0 +1,31 @@
+# ===================================
+#  Form Behavior Config
+# ===================================
+
+# Record name
+name: Grade
+
+# Model Form Field configuration
+form: $/openlab/grade/models/grade/fields.yaml
+
+# Model Class name
+modelClass: Openlab\Grade\Models\Grade
+
+# Default redirect location
+defaultRedirect: openlab/grade/grades
+
+# Create page
+create:
+    title: backend::lang.form.create_title
+    redirect: openlab/grade/grades/update/:id
+    redirectClose: openlab/grade/grades
+
+# Update page
+update:
+    title: backend::lang.form.update_title
+    redirect: openlab/grade/grades
+    redirectClose: openlab/grade/grades
+
+# Preview page
+preview:
+    title: backend::lang.form.preview_title

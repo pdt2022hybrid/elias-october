@@ -1,0 +1,16 @@
+# ===================================
+#  Form Field Definitions
+# ===================================
+
+fields:
+    id:
+        label: Matika
+        disabled: true
+    
+    grade: 
+        label: Grades
+        type: number
+    description:
+        label: Description 
+        type: text 
+

@@ -1,0 +1,15 @@
+# ===================================
+#  List Column Definitions
+# ===================================
+
+columns:
+    id:
+        label: Matika
+        searchable: true
+        
+        title:
+            label: Grades
+            searchable: true 
+        content:
+            label: Description 
+            searchable: true
