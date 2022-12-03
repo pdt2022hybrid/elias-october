@@ -1,1 +1,1 @@
-Toto je skusobny text ktory nedava zmysel.
+Toto je skusobny text ktory nedava vobec zmysel.
